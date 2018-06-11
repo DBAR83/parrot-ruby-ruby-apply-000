@@ -2,7 +2,7 @@
 # returns the phrase
 
 def parrot()
- arr = 'Squawk!'
+ arr == 'Squawk!'
  if () = ''
  puts arr
  return arr
