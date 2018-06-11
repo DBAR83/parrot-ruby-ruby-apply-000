@@ -2,13 +2,6 @@
 # returns the phrase
 
 def parrot()
- 
- if () == 'Squawk!'
- puts 'Squawk!'
- return 'Squawk!'
- 
-  else
-   puts ()
-   return ()
- end
- end
+ puts ()
+ return ()
+end
