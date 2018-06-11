@@ -8,7 +8,7 @@ def parrot()
  return 'Squawk!'
  
   else
-   puts ()
-   return ()
+   puts ('')
+   return ('')
  end
  end
