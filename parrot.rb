@@ -3,11 +3,6 @@
 
 def parrot()
  arr = "Squawk!"
- if () == nil
-   puts arr
-   return arr
-   
- else
-   puts ()
-   return()
+ puts arr
+ return arr
  end
