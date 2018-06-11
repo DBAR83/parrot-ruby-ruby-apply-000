@@ -4,7 +4,7 @@
 def parrot()
  arr = 'Squawk!'
  if () == ''
- puts arr
+ puts 'Squawk!'
  return arr
  
  else
