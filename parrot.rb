@@ -3,7 +3,7 @@
 
 def parrot()
  
- if () == ''
+ if () = ''
  puts 'Squawk!'
  return 'Squawk!'
  
