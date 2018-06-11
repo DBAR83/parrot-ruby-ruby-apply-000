@@ -3,12 +3,12 @@
 
 def parrot()
  
- if () == ''
+ if () == 'Squawk!'
  puts 'Squawk!'
  return 'Squawk!'
  
   else
-   puts ('Squawk!')
-   return ('Squawk!')
+   puts ()
+   return ()
  end
  end
