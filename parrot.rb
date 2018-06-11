@@ -3,6 +3,6 @@
 
 def parrot()
  arr = "Squawk!"
- puts #{arr}
- return #{arr}
+ puts arr||#{}
+ return arr||#{}
  end
