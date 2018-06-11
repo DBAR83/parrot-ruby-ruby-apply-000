@@ -1,13 +1,13 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
 
-def parrot(name)
+def parrot()
  arr = 'Squawk!'
- if name == ''
+ if () == ''
  puts arr
  return arr
  
  else
-   puts name
-   return name
+   puts ()
+   return ()
  end
