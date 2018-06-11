@@ -3,6 +3,6 @@
 
 def parrot(Squawk!)
  
- puts ()
- return ()
+ puts Squawk!
+ return Squawk!
  end
